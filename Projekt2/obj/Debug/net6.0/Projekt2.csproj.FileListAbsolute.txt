@@ -1,0 +1,51 @@
+D:\Projekt2\Projekt2\bin\Debug\net6.0\Projekt2.exe
+D:\Projekt2\Projekt2\bin\Debug\net6.0\Projekt2.deps.json
+D:\Projekt2\Projekt2\bin\Debug\net6.0\Projekt2.runtimeconfig.json
+D:\Projekt2\Projekt2\bin\Debug\net6.0\Projekt2.dll
+D:\Projekt2\Projekt2\bin\Debug\net6.0\Projekt2.pdb
+D:\Projekt2\Projekt2\obj\Debug\net6.0\Projekt2.csproj.AssemblyReference.cache
+D:\Projekt2\Projekt2\obj\Debug\net6.0\Projekt2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projekt2\Projekt2\obj\Debug\net6.0\Projekt2.AssemblyInfoInputs.cache
+D:\Projekt2\Projekt2\obj\Debug\net6.0\Projekt2.AssemblyInfo.cs
+D:\Projekt2\Projekt2\obj\Debug\net6.0\Projekt2.csproj.CoreCompileInputs.cache
+D:\Projekt2\Projekt2\obj\Debug\net6.0\Projekt2.dll
+D:\Projekt2\Projekt2\obj\Debug\net6.0\refint\Projekt2.dll
+D:\Projekt2\Projekt2\obj\Debug\net6.0\Projekt2.pdb
+D:\Projekt2\Projekt2\obj\Debug\net6.0\Projekt2.genruntimeconfig.cache
+D:\Projekt2\Projekt2\obj\Debug\net6.0\ref\Projekt2.dll
+D:\Projekt2\Projekt2\bin\Debug\net6.0\GAF.Core.20.dll
+D:\Projekt2\Projekt2\obj\Debug\net6.0\Projekt2.csproj.CopyComplete
+C:\Users\hp\Desktop\AI\Projekt2\Projekt2\bin\Debug\net6.0\Projekt2.exe
+C:\Users\hp\Desktop\AI\Projekt2\Projekt2\bin\Debug\net6.0\Projekt2.deps.json
+C:\Users\hp\Desktop\AI\Projekt2\Projekt2\bin\Debug\net6.0\Projekt2.runtimeconfig.json
+C:\Users\hp\Desktop\AI\Projekt2\Projekt2\bin\Debug\net6.0\Projekt2.dll
+C:\Users\hp\Desktop\AI\Projekt2\Projekt2\bin\Debug\net6.0\Projekt2.pdb
+C:\Users\hp\Desktop\AI\Projekt2\Projekt2\bin\Debug\net6.0\GAF.Core.20.dll
+C:\Users\hp\Desktop\AI\Projekt2\Projekt2\obj\Debug\net6.0\Projekt2.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\AI\Projekt2\Projekt2\obj\Debug\net6.0\Projekt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\AI\Projekt2\Projekt2\obj\Debug\net6.0\Projekt2.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\AI\Projekt2\Projekt2\obj\Debug\net6.0\Projekt2.AssemblyInfo.cs
+C:\Users\hp\Desktop\AI\Projekt2\Projekt2\obj\Debug\net6.0\Projekt2.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\AI\Projekt2\Projekt2\obj\Debug\net6.0\Projekt2.csproj.CopyComplete
+C:\Users\hp\Desktop\AI\Projekt2\Projekt2\obj\Debug\net6.0\Projekt2.dll
+C:\Users\hp\Desktop\AI\Projekt2\Projekt2\obj\Debug\net6.0\refint\Projekt2.dll
+C:\Users\hp\Desktop\AI\Projekt2\Projekt2\obj\Debug\net6.0\Projekt2.pdb
+C:\Users\hp\Desktop\AI\Projekt2\Projekt2\obj\Debug\net6.0\Projekt2.genruntimeconfig.cache
+C:\Users\hp\Desktop\AI\Projekt2\Projekt2\obj\Debug\net6.0\ref\Projekt2.dll
+C:\Users\hp\Desktop\AI — git\Projekt2\Projekt2\bin\Debug\net6.0\Projekt2.exe
+C:\Users\hp\Desktop\AI — git\Projekt2\Projekt2\bin\Debug\net6.0\Projekt2.deps.json
+C:\Users\hp\Desktop\AI — git\Projekt2\Projekt2\bin\Debug\net6.0\Projekt2.runtimeconfig.json
+C:\Users\hp\Desktop\AI — git\Projekt2\Projekt2\bin\Debug\net6.0\Projekt2.dll
+C:\Users\hp\Desktop\AI — git\Projekt2\Projekt2\bin\Debug\net6.0\Projekt2.pdb
+C:\Users\hp\Desktop\AI — git\Projekt2\Projekt2\bin\Debug\net6.0\GAF.Core.20.dll
+C:\Users\hp\Desktop\AI — git\Projekt2\Projekt2\obj\Debug\net6.0\Projekt2.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\AI — git\Projekt2\Projekt2\obj\Debug\net6.0\Projekt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\AI — git\Projekt2\Projekt2\obj\Debug\net6.0\Projekt2.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\AI — git\Projekt2\Projekt2\obj\Debug\net6.0\Projekt2.AssemblyInfo.cs
+C:\Users\hp\Desktop\AI — git\Projekt2\Projekt2\obj\Debug\net6.0\Projekt2.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\AI — git\Projekt2\Projekt2\obj\Debug\net6.0\Projekt2.csproj.CopyComplete
+C:\Users\hp\Desktop\AI — git\Projekt2\Projekt2\obj\Debug\net6.0\Projekt2.dll
+C:\Users\hp\Desktop\AI — git\Projekt2\Projekt2\obj\Debug\net6.0\refint\Projekt2.dll
+C:\Users\hp\Desktop\AI — git\Projekt2\Projekt2\obj\Debug\net6.0\Projekt2.pdb
+C:\Users\hp\Desktop\AI — git\Projekt2\Projekt2\obj\Debug\net6.0\Projekt2.genruntimeconfig.cache
+C:\Users\hp\Desktop\AI — git\Projekt2\Projekt2\obj\Debug\net6.0\ref\Projekt2.dll
