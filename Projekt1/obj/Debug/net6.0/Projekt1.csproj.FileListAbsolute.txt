@@ -1,0 +1,60 @@
+A:\STUDIA\Semestr 6 (03.23-07.23)\Sztuczna inteligencja\laboratorium\Projekt1\Projekt1\bin\Debug\net6.0\Projekt1.exe
+A:\STUDIA\Semestr 6 (03.23-07.23)\Sztuczna inteligencja\laboratorium\Projekt1\Projekt1\bin\Debug\net6.0\Projekt1.deps.json
+A:\STUDIA\Semestr 6 (03.23-07.23)\Sztuczna inteligencja\laboratorium\Projekt1\Projekt1\bin\Debug\net6.0\Projekt1.runtimeconfig.json
+A:\STUDIA\Semestr 6 (03.23-07.23)\Sztuczna inteligencja\laboratorium\Projekt1\Projekt1\bin\Debug\net6.0\Projekt1.dll
+A:\STUDIA\Semestr 6 (03.23-07.23)\Sztuczna inteligencja\laboratorium\Projekt1\Projekt1\bin\Debug\net6.0\Projekt1.pdb
+A:\STUDIA\Semestr 6 (03.23-07.23)\Sztuczna inteligencja\laboratorium\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.csproj.AssemblyReference.cache
+A:\STUDIA\Semestr 6 (03.23-07.23)\Sztuczna inteligencja\laboratorium\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.GeneratedMSBuildEditorConfig.editorconfig
+A:\STUDIA\Semestr 6 (03.23-07.23)\Sztuczna inteligencja\laboratorium\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.AssemblyInfoInputs.cache
+A:\STUDIA\Semestr 6 (03.23-07.23)\Sztuczna inteligencja\laboratorium\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.AssemblyInfo.cs
+A:\STUDIA\Semestr 6 (03.23-07.23)\Sztuczna inteligencja\laboratorium\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.csproj.CoreCompileInputs.cache
+A:\STUDIA\Semestr 6 (03.23-07.23)\Sztuczna inteligencja\laboratorium\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.dll
+A:\STUDIA\Semestr 6 (03.23-07.23)\Sztuczna inteligencja\laboratorium\Projekt1\Projekt1\obj\Debug\net6.0\refint\Projekt1.dll
+A:\STUDIA\Semestr 6 (03.23-07.23)\Sztuczna inteligencja\laboratorium\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.pdb
+A:\STUDIA\Semestr 6 (03.23-07.23)\Sztuczna inteligencja\laboratorium\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.genruntimeconfig.cache
+A:\STUDIA\Semestr 6 (03.23-07.23)\Sztuczna inteligencja\laboratorium\Projekt1\Projekt1\obj\Debug\net6.0\ref\Projekt1.dll
+D:\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.csproj.AssemblyReference.cache
+D:\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.AssemblyInfoInputs.cache
+D:\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.AssemblyInfo.cs
+D:\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.csproj.CoreCompileInputs.cache
+D:\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.dll
+D:\Projekt1\Projekt1\obj\Debug\net6.0\refint\Projekt1.dll
+D:\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.pdb
+D:\Projekt1\Projekt1\bin\Debug\net6.0\Projekt1.exe
+D:\Projekt1\Projekt1\bin\Debug\net6.0\Projekt1.deps.json
+D:\Projekt1\Projekt1\bin\Debug\net6.0\Projekt1.runtimeconfig.json
+D:\Projekt1\Projekt1\bin\Debug\net6.0\Projekt1.dll
+D:\Projekt1\Projekt1\bin\Debug\net6.0\Projekt1.pdb
+D:\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.genruntimeconfig.cache
+D:\Projekt1\Projekt1\obj\Debug\net6.0\ref\Projekt1.dll
+C:\Users\hp\Desktop\AI\Projekt1\Projekt1\bin\Debug\net6.0\Projekt1.exe
+C:\Users\hp\Desktop\AI\Projekt1\Projekt1\bin\Debug\net6.0\Projekt1.deps.json
+C:\Users\hp\Desktop\AI\Projekt1\Projekt1\bin\Debug\net6.0\Projekt1.runtimeconfig.json
+C:\Users\hp\Desktop\AI\Projekt1\Projekt1\bin\Debug\net6.0\Projekt1.dll
+C:\Users\hp\Desktop\AI\Projekt1\Projekt1\bin\Debug\net6.0\Projekt1.pdb
+C:\Users\hp\Desktop\AI\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\AI\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\AI\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\AI\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.AssemblyInfo.cs
+C:\Users\hp\Desktop\AI\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\AI\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.dll
+C:\Users\hp\Desktop\AI\Projekt1\Projekt1\obj\Debug\net6.0\refint\Projekt1.dll
+C:\Users\hp\Desktop\AI\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.pdb
+C:\Users\hp\Desktop\AI\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.genruntimeconfig.cache
+C:\Users\hp\Desktop\AI\Projekt1\Projekt1\obj\Debug\net6.0\ref\Projekt1.dll
+C:\Users\hp\Desktop\AI — git\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\AI — git\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\AI — git\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\AI — git\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.AssemblyInfo.cs
+C:\Users\hp\Desktop\AI — git\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\AI — git\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.dll
+C:\Users\hp\Desktop\AI — git\Projekt1\Projekt1\obj\Debug\net6.0\refint\Projekt1.dll
+C:\Users\hp\Desktop\AI — git\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.pdb
+C:\Users\hp\Desktop\AI — git\Projekt1\Projekt1\bin\Debug\net6.0\Projekt1.exe
+C:\Users\hp\Desktop\AI — git\Projekt1\Projekt1\bin\Debug\net6.0\Projekt1.deps.json
+C:\Users\hp\Desktop\AI — git\Projekt1\Projekt1\bin\Debug\net6.0\Projekt1.runtimeconfig.json
+C:\Users\hp\Desktop\AI — git\Projekt1\Projekt1\bin\Debug\net6.0\Projekt1.dll
+C:\Users\hp\Desktop\AI — git\Projekt1\Projekt1\bin\Debug\net6.0\Projekt1.pdb
+C:\Users\hp\Desktop\AI — git\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.genruntimeconfig.cache
+C:\Users\hp\Desktop\AI — git\Projekt1\Projekt1\obj\Debug\net6.0\ref\Projekt1.dll
